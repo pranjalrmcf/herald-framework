@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How did Sam Altman's firing and rehiring at OpenAI in November 2023 affect the company's relationships with Microsoft, its investors, and the broader AI industry?",
+    "error": "Intent classification failed: Groq generation failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+    "success": false
+  },
+  {
+    "question": "What is the relationship between OpenAI and Microsoft?",
+    "error": "Intent classification failed: Groq generation failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+    "success": false
+  },
+  {
+    "question": "What is GraphRAG and how does it differ from standard RAG?",
+    "error": "Intent classification failed: Groq generation failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+    "success": false
+  },
+  {
+    "question": "Who founded OpenAI and when?",
+    "error": "Intent classification failed: Groq generation failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+    "success": false
+  },
+  {
+    "question": "What is retrieval-augmented generation?",
+    "error": "Intent classification failed: Groq generation failed: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}",
+    "success": false
+  }
+]

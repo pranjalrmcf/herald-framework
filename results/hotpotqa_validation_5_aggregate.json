@@ -1,0 +1,24 @@
+{
+  "dataset": "hotpotqa",
+  "split": "validation",
+  "n_samples": 5,
+  "evaluated_at": "2026-05-26T19:23:35.714536",
+  "metrics": {
+    "bleu4": 0.0003,
+    "fact_cov": 0.0,
+    "meteor": 0.0033,
+    "rouge1_f": 0.0017,
+    "rouge1_p": 0.0009,
+    "rouge1_r": 0.1111,
+    "rouge2_f": 0.0,
+    "rouge2_p": 0.0,
+    "rouge2_r": 0.0,
+    "rougel_f": 0.0017,
+    "rougel_p": 0.0009,
+    "rougel_r": 0.1111,
+    "sem_sim": 0.0712,
+    "mean_execution_time_ms": 50453.2,
+    "mean_quality_composite": 0.6152,
+    "success_rate": 0.6
+  }
+}
